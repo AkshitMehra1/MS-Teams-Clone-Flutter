@@ -1,4 +1,4 @@
-# trial
+# MS Teams Clone
 
 A new Flutter project.
 
