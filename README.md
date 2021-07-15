@@ -3,7 +3,7 @@
 Android app developed for Microsoft Engage 2021. This android app allows users to communicate with Group Video Calling and Text messaging support.
 
 ## About me
-I'm Akshit Mehra, a Student at MAIT currently pursuing B.Tech in CSE. I'm a third year student and I'm thankful to Microsoft for providing me this opportunity to compete and enhance my skills as an app developer
+I'm Akshit Mehra, a Student at MAIT currently pursuing B.Tech in CSE. I'm a third year student and I'm thankful to Microsoft for providing me this opportunity to compete and enhance my skills as an app developer.
 
 ## The Challenge
 
@@ -17,6 +17,13 @@ Build a Microsoft Teams Clone: The solution should be a fully functional prototy
 4. __Google Firebase__ for storing chats and backend
 5. Google Login for user login
 
+## How to build the app
+
+Step 1: Install flutter on your native OS and run "flutter doctor" and complete all the checklist.
+Step 2: Open VScode with extensions (flutter, dart and pubspec assist) and type flutter pub get to get all the packages.
+Step 3: Run an emulator or connect a physical adroid device to your PC (enable USB debugging in your phone)
+Step 4: Go to lib/main.dart file and click on run.
+Step 5: It may show some warnings but the code is good to go, if you face any issues please contact me.
 
 ## AGILE Methodology used for developement
 
