@@ -36,7 +36,7 @@ Build a Microsoft Teams Clone: The solution should be a fully functional prototy
 ## Screenshots
 
 This is the splash screen of the app with the logo of the app, it stays for 3 seconds but can be changed.
-![Splash Screen](/screenshots/1.jpg | width=100)
+![Splash Screen](/screenshots/1.jpg =25x25)
 
 The Google Sign In Page and the confirmation box.
 ![Google Sign in page](/screenshots/2.jpg)  ![Google Sign in page](/screenshots/3.jpg)
