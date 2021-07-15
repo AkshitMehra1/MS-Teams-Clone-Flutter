@@ -44,23 +44,30 @@ The Google Sign In Page and the confirmation box.
 <img src="/screenshots/2.jpg" alt="" width="200"/>  <img src="/screenshots/3.jpg" alt="" width="200"/>
 
 All the screens of the homepage: Chats, Rooms and Profile.
-![Chats](/screenshots/5.jpg)  ![Rooms](/screenshots/4.jpg)  ![Profile](/screenshots/6.jpg)
+
+<img src="/screenshots/5.jpg" alt="" width="200"/>  <img src="/screenshots/4.jpg" alt="" width="200"/>  <img src="/screenshots/6.jpg" alt="" width="200"/>
 
 The Side Navigation Bar of the app with links to various things including the repository as well as the developers LinkedIn profile.
-![Side Bar](/screenshots/7.jpg)
+
+<img src="/screenshots/7.jpg" alt="" width="200"/>
 
 New chats can be created by using the __+__ icon on the Chats screen and new rooms can be made by clicking the __+__ icon on the Rooms screen.
-![Create a Chat](/screenshots/8.jpg)  ![Create a Room](/screenshots/9.jpg)
+
+<img src="/screenshots/8.jpg" alt="" width="200"/>  <img src="/screenshots/9.jpg" alt="" width="200"/>
 
 This is the chat screen with chat messages and this app also has in app emojis which will be further upgraded to stickers.
-![Chat Screen](/screenshots/12.jpg)  ![Chat Screen with emoji](/screenshots/13.jpg)
+
+<img src="/screenshots/12.jpg" alt="" width="200"/>  <img src="/screenshots/13.jpg" alt="" width="200"/>
 
 This is the room chat screen with chat messages and on clicking the eye button it shows all the members of the app that were added to the room.
-![Room Chat Screen](/screenshots/10.jpg)  ![Room Members](/screenshots/11.jpg)
+
+<img src="/screenshots/10.jpg" alt="" width="200"/>  <img src="/screenshots/11.jpg" alt="" width="200"/>
+
 Clicking on the meet button you can create your own meeting with a name and other people in the room can join it.
 
 This is the meeting room with inmeeting chat that is later saved as a message in the room chat which acts as a separate chat is the meeting room with all the messages of the meeting saved in it. 
-![Meeting](/screenshots/14.jpg)  ![In meet chat](/screenshots/15.jpg)  ![In meet chat being saved](/screenshots/16.jpg)
+
+<img src="/screenshots/14.jpg" alt="" width="200"/>  <img src="/screenshots/15.jpg" alt="" width="200"/>  <img src="/screenshots/16.jpg" alt="" width="200"/>
 
 ## Conclusion
 
