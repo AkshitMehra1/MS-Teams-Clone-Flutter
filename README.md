@@ -40,6 +40,7 @@ This is the splash screen of the app with the logo of the app, it stays for 3 se
 <img src="/screenshots/1.jpg" alt="" width="200"/>
 
 The Google Sign In Page and the confirmation box.
+
 <img src="/screenshots/2.jpg" alt="" width="200"/>  <img src="/screenshots/3.jpg" alt="" width="200"/>
 
 All the screens of the homepage: Chats, Rooms and Profile.
